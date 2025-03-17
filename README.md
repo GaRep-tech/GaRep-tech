@@ -3,7 +3,7 @@
 <h3 align="center"> Im a Database Administrator who loves to learn</h3>
 
 
-- 🌱 I’m currently learning the best practices for Web Design
+- 🌱 I’m currently learning the best practices for Web Design. I have also started a deep dive into ThreeJs and 3D web development. 
   
 - 💞️ I’m looking to collaborate on UX/UI projects or Web design projects
   
